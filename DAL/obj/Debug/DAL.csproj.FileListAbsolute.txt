@@ -1,0 +1,17 @@
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\DAL.dll.config
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\DAL.dll
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\DAL.pdb
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\obj\Debug\DAL.dll
+C:\Users\Raak Laptop\Documents\RIT - Fall 2018\Software Modeling\SAM2019\DAL\obj\Debug\DAL.pdb
